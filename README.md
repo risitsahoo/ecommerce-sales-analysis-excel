@@ -13,7 +13,7 @@
 7. [Methods and Excel Implementation](#-methods-and-excel-implementation)  
 8. [Files in This Repository](#-files-in-this-repository)  
 9. [Dashboard Overview](#-dashboard-overview)  
-10. [How to Run the Project](#-how-to-run-the-project)  
+10. [How to Run the Project](#-how-to-run-the-project)
 11. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)  
 12. [Key Insights & Findings](#-key-insights--findings)  
 13. [Future Scope & Business Recommendations](#-future-scope--business-recommendations)  
