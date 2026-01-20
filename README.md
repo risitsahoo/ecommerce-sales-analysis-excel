@@ -4,38 +4,26 @@
 ---
 
 ## 📑 Table of Contents
-1. [Project Overview](#project-overview)  
-2. [Business Problem Statement](#business-problem-statement)  
-3. [Business Objectives](#business-objectives)  
-4. [Dataset Overview](#dataset-overview)  
-5. [Tools & Techniques](#tools--techniques)  
-6. [Data Preparation & Cleaning](#data-preparation--cleaning)  
-7. [Methods and Excel Implementation](#methods-and-excel-implementation)  
-8. [Files in This Repository](#files-in-this-repository)  
-9. [Dashboard Overview](#dashboard-overview)  
-10. [How to Run the Project](#how-to-run-the-project)  
-11. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)  
-12. [Key Insights & Findings](#key-insights--findings)  
-13. [Future Scope & Business Recommendations](#future-scope--business-recommendations)  
-14. [Conclusion](#conclusion)  
-15. [Contact](#contact)
+1. [Project Overview](#-project-overview)  
+2. [Business Problem Statement](#-business-problem-statement)  
+3. [Business Objectives](#-business-objectives)  
+4. [Dataset Overview](#-dataset-overview)  
+5. [Tools & Techniques](#-tools--techniques)  
+6. [Data Preparation & Cleaning](#-data-preparation--cleaning)  
+7. [Methods and Excel Implementation](#-methods-and-excel-implementation)  
+8. [Files in This Repository](#-files-in-this-repository)  
+9. [Dashboard Overview](#-dashboard-overview)  
+10. [How to Run the Project](#-how-to-run-the-project)  
+11. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)  
+12. [Key Insights & Findings](#-key-insights--findings)  
+13. [Future Scope & Business Recommendations](#-future-scope--business-recommendations)  
+14. [Conclusion](#-conclusion)  
+15. [Contact](#-contact)
 
 ---
 
-# 1️⃣ Project Title
 
-## **E-Commerce Sales Analysis Dashboard**
-
-An end-to-end **Excel-based data analytics project** designed to analyze e-commerce sales performance, profitability, customer behavior, and regional contribution using real-world transactional data.
-
----
-
-# 2️⃣ Table of Contents  
-*(Clickable navigation provided above)*
-
----
-
-# 3️⃣ Project Overview
+# 📘 Project Overview
 
 This project focuses on analyzing e-commerce sales data to extract meaningful insights that support business decision-making.
 
@@ -51,7 +39,7 @@ A professional **interactive Excel dashboard** was developed to present insights
 
 ---
 
-# 4️⃣ Business Problem Statement
+# ❓ Business Problem Statement
 
 The business lacked a centralized reporting solution to understand:
 
@@ -65,7 +53,7 @@ To address these challenges, a single analytical dashboard was required.
 
 ---
 
-# 5️⃣ Business Objectives
+# 🎯 Business Objectives
 
 - Evaluate overall business performance using KPIs  
 - Identify high-performing and underperforming categories  
@@ -76,7 +64,7 @@ To address these challenges, a single analytical dashboard was required.
 
 ---
 
-# 6️⃣ Dataset Overview
+# 🗂 Dataset Overview
 
 The dataset represents transactional e-commerce sales data containing:
 
@@ -90,7 +78,7 @@ The data spans multiple years, enabling trend-based analysis.
 
 ---
 
-# 7️⃣ Tools & Techniques
+# 🛠 Tools & Techniques
 
 ### 🛠 Tools
 - Microsoft Excel  
@@ -104,7 +92,7 @@ The data spans multiple years, enabling trend-based analysis.
 
 ---
 
-# 8️⃣ Data Preparation & Cleaning
+# 🧹 Data Preparation & Cleaning
 
 - Removed duplicate and blank records  
 - Standardized date and currency formats  
@@ -116,7 +104,7 @@ The data spans multiple years, enabling trend-based analysis.
 
 ---
 
-# 9️⃣ Methods and Excel Implementation
+# 📊 Methods and Excel Implementation
 
 - KPI-based performance measurement  
 - Monthly sales vs profit comparison  
@@ -133,19 +121,19 @@ Excel features used:
 
 ---
 
-# 🔟 Files in This Repository
+# 📂 Files in This Repository
 
-📁 Product Region Sales Performance & Analysis
+📁 Ecommerce Sales Analysis
 │
-├── 🖼 ecommerce_sales_analysis_dashboard_image.png
-├── 📊 ecommerce_sales_analysis_dataset_and_dashboard.xlsx
-├── 📄 ecommerce_sales_analysis_report.pdf
-├── 📘 README.md
+├── 🖼 ecommerce_sales_analysis_dashboard_image.png                     # Dashboard screenshot
+├── 📊 ecommerce_sales_analysis_dataset_and_dashboard.xlsx             # Cleaned dataset + 
+├── 📄 ecommerce_sales_analysis_report.pdf                             # Detailed project report 
+├── 📘 README.md                                                       # Project documentation
 
 
 ---
 
-# 1️⃣1️⃣ Dashboard Overview
+# 🖥 Dashboard Overview
 
 The dashboard is designed using a **professional dark theme**, suitable for executive-level reporting.
 
@@ -174,7 +162,7 @@ The dashboard is designed using a **professional dark theme**, suitable for exec
 
 ---
 
-# 1️⃣2️⃣ How to Run the Project
+# ▶️ How to Run the Project
 
 1. Clone or download this repository  
 2. Open  
@@ -189,7 +177,7 @@ The dashboard is designed using a **professional dark theme**, suitable for exec
 
 ---
 
-# 1️⃣3️⃣ Key Performance Indicators (KPIs)
+# 📌 Key Performance Indicators (KPIs)
 
 | KPI | Value |
 |------|------|
@@ -201,7 +189,7 @@ The dashboard is designed using a **professional dark theme**, suitable for exec
 
 ---
 
-# 1️⃣4️⃣ Key Insights & Findings
+# 🔍 Key Insights & Findings
 
 ### 📈 Sales & Profit Trends
 - Sales show consistent growth throughout the year.  
@@ -231,7 +219,7 @@ These products significantly impact overall revenue.
 
 ---
 
-# 1️⃣5️⃣ Future Scope & Business Recommendations
+# 🚀 Future Scope & Business Recommendations
 
 ### Business Recommendations
 - Focus on high-margin sub-categories such as Phones  
@@ -247,7 +235,7 @@ These products significantly impact overall revenue.
 
 ---
 
-# 1️⃣6️⃣ Conclusion
+# ✅ Conclusion
 
 This project demonstrates the complete **data analytics lifecycle** from raw data to business insights.
 
@@ -262,7 +250,7 @@ The project aligns with industry expectations for **Data Analyst and Business An
 
 ---
 
-# 1️⃣7️⃣ Contact
+# 📬 Contact
 
 **Risit Sahoo**  
 🎓 B.Tech – Electronics & Communication Engineering  
