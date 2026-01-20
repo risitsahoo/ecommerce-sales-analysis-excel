@@ -256,9 +256,6 @@ The project aligns with industry expectations for **Data Analyst and Business An
 **Risit Sahoo**  
 📧 Email: risit.sahoo121@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/risitsahoo
-📧 Email: *Add your email*  
-🔗 LinkedIn: *Add your LinkedIn profile link*  
-💻 GitHub: *Add your GitHub profile link*
 
 ---
 
