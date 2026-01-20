@@ -163,7 +163,7 @@ The dashboard is designed using a **professional dark theme**, suitable for exec
 
 ---
 
-# ▶️ How to Run the Project
+# ▶ How to Run the Project
 
 1. Clone or download this repository  
 2. Open  
