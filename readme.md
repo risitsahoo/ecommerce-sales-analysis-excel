@@ -127,7 +127,7 @@ Excel features used:
 📁 Ecommerce Sales Analysis
 │
 ├── 🖼 ecommerce_sales_analysis_dashboard_image.png                     # Dashboard screenshot
-├── 📊 ecommerce_sales_analysis_dataset_and_dashboard.xlsx             # Cleaned dataset + dashboard
+├── 📊 ecommerce_sales_analysis_dataset_and_dashboard.xlsx             # Cleaned dataset and dashboard
 ├── 📄 ecommerce_sales_analysis_report.pdf                             # Detailed project report 
 ├── 📘 README.md                                                       # Project documentation
 ```
